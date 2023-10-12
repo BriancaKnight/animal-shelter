@@ -8,7 +8,12 @@ body {
 }
 
 .column {
-  float:left;
+  float: left;
+  border: 8px solid black;
+  padding: 20px;
+  margin: 5px;
+  border-radius: 4px;
+  background-color: lightpink;
 }
 
 .column p {
