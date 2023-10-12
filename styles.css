@@ -8,7 +8,7 @@ body {
 }
 
 .column {
-  float: left;
+  
   border: 8px solid black;
   padding: 20px;
   margin: 5px;
@@ -22,6 +22,10 @@ body {
 
 h1{
   text-align: center;
+}
+
+img {
+  width: 80%;
 }
 
 @media screen and (max-width: 760px){
